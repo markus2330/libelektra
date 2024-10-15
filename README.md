@@ -1,3 +1,7 @@
+> _Elektra_ succeeded as research project but would need intensive engineering efforts to get it mature enough to be used.
+> If you want to start this endeavor, please contact markus@permaplant.net
+> Until then, it is archived.
+
 # Elektra
 
 [![Release](https://img.shields.io/github/release/ElektraInitiative/libelektra.svg)](https://github.com/ElektraInitiative/libelektra/releases/latest)
